@@ -187,6 +187,7 @@ a{
 
   .user-image img{
     z-index:-9;
+    width:20rem
   }
 
   @keyframes scaleImage {
@@ -700,9 +701,6 @@ footer{
   padding: 5rem;
 }
 
-.hide{
-
-}
 
 .footer-wrapper{
   display: flex;
